@@ -5,10 +5,12 @@ This repository hosts the configuration files for vanilla Apache Hadoop 2.7.2 an
 # Hadoop Configuration Files:
 
 `core-site.xml`
-`hdfs-site.xml`
-`mapered-site.xml`
+`hdfs-site_namenode.xml`
+`hdfs-site_datanode.xml`
+`mapred-site.xml`
 `slaves`
-`yarn-site.xml`
+`yarn-site_namenode.xml`
+`yarn-site_datanode.xml`
 
 # Spark Configuration File:
 
